@@ -1,3 +1,4 @@
+# Training model on Iris dataset
 It was my first ML project. It is simple and clean. For a beginner it is very helpful for understanding the concepts of collection of data and how the training of model works.
 
 Trained the classic Iris dataset from OpenML using a Random Forest Classifier in Jupyter Notebook, with an 80/20 train-test split to validate on unseen data.
